@@ -1,0 +1,38 @@
+/** {
+    color:brown
+}
+body {
+    text-align: center;
+} */
+h1 {
+    color:blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+section > p {
+    color:blue;
+    /* background-color: green; */
+    background-image: url(/);
+}
+.subtitulo:first-letter {
+    font-size: 400px;
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: chartreuse;
+}
+
+.parrafo2 {
+    width: 300px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 30;
+    margin-right: 30px;
+    border: 5px solid black;
+    box-sizing: border-box;
+}
